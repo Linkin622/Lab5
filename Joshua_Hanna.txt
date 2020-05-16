@@ -1,0 +1,7 @@
+a.https://github.com/Linkin622/Lab5
+b.joshua.hanna.394@my.csun.edu 105506815
+
+c.Joshua Hanna, Comp 322, Lab5
+
+Final Iteration: 5/7/20
+-Program was fairly easy to run and implement, just remember to put in a value for the page number and offset youre looking for
